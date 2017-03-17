@@ -1,4 +1,5 @@
-const request = require('request');
+// Node CLI for programmatic trading on GDAX
+
 const figlet = require('figlet');
 const chalk = require('chalk');
 const clear = require('clear');
@@ -14,7 +15,7 @@ clear();
 console.log(
 	chalk.white(
 		figlet.textSync(
-		'\nCrypto-bot\n', {horizontalLayout: 'full'}
+		'\nCrypto-bot\n', {horizontalLayout: 'default'}
 		)
 	)
 );
