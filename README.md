@@ -12,7 +12,7 @@ node index.js --help
 
   Usage: index [options]
 
-  Description: Simple CLI for programmatic buying on GDAX
+  Description: Simple CLI for programmatic trading of cryptocurrencies on GDAX
 
   Options:
 
