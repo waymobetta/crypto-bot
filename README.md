@@ -1,7 +1,8 @@
 # crypto_bot
 
-```bash
 node index.js --help
+```bash
+
 
    ____                 _              _           _   
   / ___|_ __ _   _ _ __ | |_ ___       | |__   ___ | |_ 
