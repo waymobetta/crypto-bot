@@ -24,7 +24,7 @@ console.log(
 
 program
 	.version('0.0.1')
-	.description('Description: Simple CLI for programmatic buying on GDAX')
+	.description('Description: Simple CLI for programmatic trading of cryptocurrencies on GDAX')
 	.option('-i, --id [number]', 'Get Account ID')
 	.option('-l, --logs', 'Get account raw logs [history/ledger]')
 	.option('-b, --buy [price] [units]', 'BUY: Buy crypto [price] [units]')
