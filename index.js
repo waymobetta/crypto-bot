@@ -92,7 +92,7 @@ if (program.logs) {
 		'size': process.argv[4],
 		'product_id': 'ETH-USD'
 	};
-	authedClient.buy(buyParams, callback)
+	authedClient.buy(buyParams, callback);
 } else if (program.sell) {
 	let sellParams = {
 		'price': process.argv[3],
@@ -105,6 +105,6 @@ if (program.logs) {
 } else if (program.id) {
 	authedClient.getAccounts(callback);
 } else {
-	console.log('Awaiting instructions..')
+	console.log('Awaiting instructions..');
 }
 
