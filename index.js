@@ -45,9 +45,9 @@ let sandboxURI = 'https://api-public.sandbox.gdax.com';
 // account IDs
 // FILL IN
 
-let eth_id = '';
-let usd_id = '';
-let btc_id = '';
+const eth_id = '';	// ethereum wallet address
+const usd_id = '';	// us dollar ''
+const btc_id = '';	// bitcoin ''
 
 // define callback specific to command
 
