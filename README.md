@@ -25,3 +25,5 @@ node index.js --help
     -d, --destroy               DESTROY: Cancel all orders
 
 ```
+
+ToDo: Documentation and bug fixes. Additional functionality in the works :)
